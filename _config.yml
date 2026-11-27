@@ -8,3 +8,4 @@ description: >-
 linkedin_username: timosarkar
 github_username: timosar
 theme: minima
+permalink: /:title.html
