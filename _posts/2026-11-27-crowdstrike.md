@@ -24,6 +24,7 @@ I expected a couple of jars. I got **736**. 410 of them contain `com/humio` clas
 3,339,116 lines of code
 129 com.humio packages
 ```
+![img](https://pbs.twimg.com/media/HYIyllSXUAE3voQ?format=jpg&name=4096x4096)
 
 ![decompiled CrowdStrike LogScale line count](https://pbs.twimg.com/media/HX-lyztX0AAjTwn?format=jpg&name=4096x4096)
 
